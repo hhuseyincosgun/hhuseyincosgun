@@ -4,7 +4,7 @@ I am a data science enthusiast with a background in robotic and automation appli
 
 - 🔭 I am developing a project by learning data science tools. (Machine learning and deep learning)
 - 🌱 I’m currently learning data engineering tools( Data Pipelines, Spark, Kafka, SQL, Snowflake).
-- 
+
 <!--
 **hhuseyincosgun/hhuseyincosgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
