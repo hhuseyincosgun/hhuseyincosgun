@@ -6,7 +6,7 @@ I am a data science enthusiast with a background in robotic and automation appli
 - 🌱 I’m currently learning data engineering tools( Data Pipelines, Spark, Kafka, SQL, Snowflake).
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Huseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhuseyincosgun&show_icons=true&theme=transparent)
 
 
 
