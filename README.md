@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a data science enthusiast with a background in robotic and automation applications. I learned Data Science and Machine Learning from scratch and have a passion for exploring this field. Let's talk about the exciting world of data and AI. 
+
+- 🔭 I am developing a project by learning data science tools. (Machine learning and deep learning)
+- 🌱 I’m currently learning data engineering tools( Data Pipelines, Spark, Kafka, SQL, Snowflake).
+- 
 <!--
 **hhuseyincosgun/hhuseyincosgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
