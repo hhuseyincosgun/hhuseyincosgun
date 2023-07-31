@@ -4,7 +4,7 @@ I am a data science enthusiast with a background in robotic and automation appli
 
 - 🔭 I am developing a project by learning data science tools. (Machine learning and deep learning)
 - 🌱 I’m currently learning data engineering tools( Data Pipelines, Spark, Kafka, SQL, Snowflake).
-- 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -21,9 +21,10 @@ I am a data science enthusiast with a background in robotic and automation appli
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 🌐 Socials:
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-LinkedIn Twitter Medium
+
 <!--
 **hhuseyincosgun/hhuseyincosgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
