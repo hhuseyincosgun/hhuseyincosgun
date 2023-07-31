@@ -22,9 +22,6 @@ I am a data science enthusiast with a background in robotic and automation appli
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-🌐 Socials:
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
 <!--
 **hhuseyincosgun/hhuseyincosgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
