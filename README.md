@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I am a data science enthusiast with a background in robotic and automation applications. I learned Data Science and Machine Learning from scratch and have a passion for exploring this field. Let's talk about the exciting world of data and AI. 
+I am a data analyst enthusiast with a background in robotic and automation applications. I like to travel to the inner world of data with data analysis and visualization tools. I aim to increase my experience by working actively in the business world and pre-marketing research processes and by making projects. 
 
-- 🔭 I am developing a project by learning data science tools. (Machine learning and deep learning)
-    - Feature Engineering
-    - Word Frequency in Classic Novels
-    - New York City Airbnb Analysis
+🔭 I am developing projects by using data analyst skills.
+- Data Visualization, Data Cleaning, Python, SQL and NoSQL, Creating Dashboards and Reports
 - 🌱 I’m currently learning data engineering tools( Data Pipelines, Spark, Kafka, SQL, Snowflake).
 
 
