@@ -3,7 +3,7 @@
 I am a data analyst enthusiast with a background in robotic and automation applications. I like to travel to the inner world of data with data analysis and visualization tools. I aim to increase my experience by working actively in the business world and pre-marketing research processes and by making projects. 
 
 🔭 I am developing projects by using data analyst skills.
-- Data Visualization, Data Cleaning, Python, SQL and NoSQL, Creating Dashboards and Reports
+- Data Visualization, Data Cleaning, Python, SQL 
 - 🌱 I’m currently learning data engineering tools( Data Pipelines, Spark, Kafka, SQL, Snowflake).
 
 
