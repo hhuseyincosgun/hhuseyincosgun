@@ -24,8 +24,8 @@ I'm Hasan Hüseyin, Software Engineer, Architect, Instructor, Mentor and researc
 
 <!-- Socials --> 
 
-<h3 align="left">Connect with me:</h3>  
-<div align="left">
+<h3 align="center">Connect with me:</h3>  
+<div align="center">
 <a href="https://www.linkedin.com/in/hasanhuseyincosgun/" target="blank">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
