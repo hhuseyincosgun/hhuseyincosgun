@@ -1,21 +1,25 @@
-<!-- Intro -->
+### Hi there 👋
 
-<h3 align="left">Hi! I'm Hasan Huseyin</h3>
-<h3 align="left">Data Engineer</h3>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<div>
-<div align="left">
- <h3>About Me :</h3>
-<br>  Working as a Data Engineer.
-<br>  Writing data-related articles on Medium
-<br>  Coding advanced Python scripts and SQL queries
-<br>  Developing lots of complicated data engineering projects
-<br>  Creating many different types of data pipelines
-</div>
- <div align="right">
- <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
- </div>
-</div>
+<br/>
+
+I'm Hasan Hüseyin, Software Engineer, Architect, Instructor, Mentor and researcher of the future.
+<br/>
+
+
+- I’m looking for organizations to collaborate open-source projects as a volunteer!
+- 🔭 I’m currently trying to get a certificate on AWS!
+- 🚀 I'm improving myself on Python/Django!
+
+<br/>
+
+![](https://img.shields.io/badge/OS-Linux&&Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Intellij&&VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java&&Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interest-Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<br/>
 
 
 <!-- Socials --> 
