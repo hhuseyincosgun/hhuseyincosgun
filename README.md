@@ -34,6 +34,10 @@
 <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 3rem"/>
 </a>
 
+<a href="https://www.kaggle.com/huseyincosgun/code" target="blank">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168474.png" style="height: 3rem"/>
+</a>
+
 
 </div>
 
