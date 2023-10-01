@@ -20,8 +20,8 @@
 
 <!-- Socials --> 
 
-<h3 align="center">Connect with me:</h3>  
-<div align="center">
+<h3 align="left">Connect with me:</h3>  
+<div align="left">
 <a href="https://www.linkedin.com/in/hasanhuseyincosgun/" target="blank">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
@@ -38,6 +38,9 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168474.png" style="height: 3rem"/>
 </a>
 
+<br/>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 </div>
 
