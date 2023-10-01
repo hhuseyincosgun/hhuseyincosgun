@@ -1,15 +1,11 @@
 <!-- Intro -->
 
-<!--<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Hasan Huseyin+👋;I+am+an+enthusiastic+Data+Engineer"></a>
-</p>-->
+<h3 align="left">Hi! I'm Hasan Huseyin</h3>
+<h3 align="left">Data Engineer</h3>
 
-<h3 align="center">Hi! I'm Hasan Huseyin</h3>
-<h3 align="center">Data Engineer</h3>
-
-<h3 align="center">About Me :</h3>  
+<h3 align="left">About Me :</h3>  
  <p>
-<div align="center">
+<div align="left">
 <br>  Working as a Data Engineer.
 <br>  Writing data-related articles on Medium
 <br>  Coding advanced Python scripts and SQL queries
@@ -18,7 +14,7 @@
 </div>
  </p>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- Socials --> 
 
