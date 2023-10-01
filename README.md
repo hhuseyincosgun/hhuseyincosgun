@@ -5,14 +5,12 @@
 
 <div>
 <div align="left">
- <h3>About Me :</h3>  
- <p>
+ <h3>About Me :</h3>
 <br>  Working as a Data Engineer.
 <br>  Writing data-related articles on Medium
 <br>  Coding advanced Python scripts and SQL queries
 <br>  Developing lots of complicated data engineering projects
 <br>  Creating many different types of data pipelines
- </p>
 </div>
  <div align="right">
  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
