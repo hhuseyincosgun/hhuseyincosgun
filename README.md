@@ -3,7 +3,9 @@
 <h3 align="left">Hi! I'm Hasan Huseyin</h3>
 <h3 align="left">Data Engineer</h3>
 
-<h3 align="left">About Me :</h3>  
+<div>
+<div align="left">
+ <h3>About Me :</h3>  
  <p>
 <br>  Working as a Data Engineer.
 <br>  Writing data-related articles on Medium
@@ -11,8 +13,12 @@
 <br>  Developing lots of complicated data engineering projects
 <br>  Creating many different types of data pipelines
  </p>
+</div>
+ <div align="right">
+ <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
+ </div>
+</div>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- Socials --> 
 
