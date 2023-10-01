@@ -18,6 +18,8 @@
 </div>
  </p>
 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <!-- Socials --> 
 
 <h3 align="left">Connect with me:</h3>  
@@ -37,10 +39,6 @@
 <a href="https://www.kaggle.com/huseyincosgun/code" target="blank">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168474.png" style="height: 3rem"/>
 </a>
-
-<br/>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 </div>
 
