@@ -5,13 +5,11 @@
 
 <h3 align="left">About Me :</h3>  
  <p>
-<div align="left">
 <br>  Working as a Data Engineer.
 <br>  Writing data-related articles on Medium
 <br>  Coding advanced Python scripts and SQL queries
 <br>  Developing lots of complicated data engineering projects
 <br>  Creating many different types of data pipelines
-</div>
  </p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
