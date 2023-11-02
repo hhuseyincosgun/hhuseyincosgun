@@ -1,15 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Hasan Hüseyin,
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
 
-I'm Hasan Hüseyin, Data Engineer.
-<br/>
-
--  I’m looking for organizations to collaborate open-source projects as a volunteer!
--  I’m currently writing data-related articles on Medium!
--  I'm improving myself on data engineering tools!
+-  Currently, I'm improving myself on data engineering tools!
+-  I’m writing data-related articles on Medium!
 -  Developing lots of complicated data engineering projects.
 
 <br/>
